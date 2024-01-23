@@ -1,6 +1,5 @@
 
 import { Component } from "react";
-import { Box } from "components/Box"
 import { StatisticsItem } from './Statistics.styled'
 import PropTypes from 'prop-types';
 
